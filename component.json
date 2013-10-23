@@ -1,0 +1,13 @@
+{
+  "name": "selector-listener",
+  "repo": "virtru-components/selector-listener",
+  "description": "Selector Listener Component",
+  "version": "0.0.1",
+  "dependencies": {
+    "virtru-components/jquery-pack": "*"
+  },
+  "scripts": [
+    "index.js",
+    "lib/selector-listener.js"
+  ]
+}
