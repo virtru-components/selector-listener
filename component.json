@@ -2,7 +2,7 @@
   "name": "selector-listener",
   "repo": "virtru-components/selector-listener",
   "description": "Connection Monitor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "virtru-components/jquery-pack": "*"
   },
